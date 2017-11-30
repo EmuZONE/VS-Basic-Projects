@@ -1,0 +1,52 @@
+Luminati SDK logger pid 7936
+Build version: 1.68.308
+OS version: Microsoft Windows NT 6.2.9200.0
+Hostname: DESKTOP-MLJSUH8
+Build date: 29-Oct-17 21:32:05
+Makeflags: DIST=APP RELEASE=y CONFIG_WIN_SDK=y
+Process: 7936
+Antivirus: "IObit Malware Fighter" "Kaspersky Internet Security" "Windows Defender" 
+2017.11.30 21:51:09.724 lum_sdk/api ALLWAYS logger file initialized: C:\EmuZONE\Apps\WinSysAdmin\Luminati\lum_sdk.log
+2017.11.30 21:51:09.724 lum_sdk/api NOTICE LUM_SDK API init: win_microsoftwindows.heidoc.net
+2017.11.30 21:51:09.755 lum_sdk/api NOTICE https://perr.luminati.io/perr?id=lum_sdk_init&ver=1.68.308&appid=win_microsoftwindows.heidoc.net
+2017.11.30 21:51:11.114 lum_sdk/api NOTICE https://perr.luminati.io/perr?id=lum_sdk_show_dialog&ver=1.68.308&appid=win_microsoftwindows.heidoc.net
+2017.11.30 21:51:11.177 lum_sdk/api NOTICE https://perr.luminati.io/perr?id=lum_sdk_choice_change&ver=1.68.308&appid=win_microsoftwindows.heidoc.net
+2017.11.30 21:51:11.192 lum_sdk/api NOTICE LUM_SDK API init: win_microsoftwindows.heidoc.net
+2017.11.30 21:51:12.005 lum_sdk/api NOTICE https://perr.luminati.io/perr?id=lum_sdk_show_dialog&ver=1.68.308&appid=win_microsoftwindows.heidoc.net
+2017.11.30 21:51:15.758 lum_sdk/api NOTICE https://perr.luminati.io/perr?id=lum_sdk_choice_change&ver=1.68.308&appid=win_microsoftwindows.heidoc.net
+2017.11.30 21:51:15.758 lum_sdk/api NOTICE https://perr.luminati.io/perr?id=lum_sdk_choose_peer&ver=1.68.308&appid=win_microsoftwindows.heidoc.net
+2017.11.30 21:51:22.054 lum_sdk/api INFO Downloaded 62838 of 7300622
+2017.11.30 21:51:22.101 lum_sdk/api INFO Downloaded 120662 of 7300622
+2017.11.30 21:51:22.179 lum_sdk/api INFO Downloaded 174226 of 7300622
+2017.11.30 21:51:22.242 lum_sdk/api INFO Downloaded 227954 of 7300622
+2017.11.30 21:51:22.336 lum_sdk/api INFO Downloaded 335478 of 7300622
+2017.11.30 21:51:22.414 lum_sdk/api INFO Downloaded 392278 of 7300622
+2017.11.30 21:51:22.461 lum_sdk/api INFO Downloaded 445842 of 7300622
+2017.11.30 21:51:22.554 lum_sdk/api INFO Downloaded 550130 of 7300622
+2017.11.30 21:51:22.601 lum_sdk/api INFO Downloaded 602438 of 7300622
+2017.11.30 21:51:22.726 lum_sdk/api INFO Downloaded 704282 of 7300622
+2017.11.30 21:51:22.773 lum_sdk/api INFO Downloaded 759266 of 7300622
+2017.11.30 21:51:22.820 lum_sdk/api INFO Downloaded 812434 of 7300622
+2017.11.30 21:51:22.914 lum_sdk/api INFO Downloaded 919098 of 7300622
+2017.11.30 21:51:22.961 lum_sdk/api INFO Downloaded 972498 of 7300622
+2017.11.30 21:51:23.008 lum_sdk/api INFO Downloaded 1025598 of 7300622
+2017.11.30 21:51:23.117 lum_sdk/api INFO Downloaded 1107148 of 7300622
+2017.11.30 21:51:23.195 lum_sdk/api INFO Downloaded 1217908 of 7300622
+2017.11.30 21:51:23.258 lum_sdk/api INFO Downloaded 1269424 of 7300622
+2017.11.30 21:51:23.304 lum_sdk/api INFO Downloaded 1322988 of 7300622
+2017.11.30 21:51:23.398 lum_sdk/api INFO Downloaded 1432328 of 7300622
+2017.11.30 21:51:23.445 lum_sdk/api INFO Downloaded 1485892 of 7300622
+2017.11.30 21:51:23.492 lum_sdk/api INFO Downloaded 1539224 of 7300622
+2017.11.30 21:51:23.589 lum_sdk/api INFO Downloaded 1648400 of 7300622
+2017.11.30 21:51:23.630 lum_sdk/api INFO Downloaded 1698264 of 7300622
+2017.11.30 21:51:23.708 lum_sdk/api INFO Downloaded 1803344 of 7300622
+2017.11.30 21:51:23.755 lum_sdk/api INFO Downloaded 1855884 of 7300622
+2017.11.30 21:51:23.802 lum_sdk/api INFO Downloaded 1908424 of 7300622
+2017.11.30 21:51:23.896 lum_sdk/api INFO Downloaded 2018392 of 7300622
+2017.11.30 21:51:23.943 lum_sdk/api INFO Downloaded 2071328 of 7300622
+2017.11.30 21:51:24.052 lum_sdk/api INFO Downloaded 2157772 of 7300622
+2017.11.30 21:51:24.099 lum_sdk/api INFO Downloaded 2214572 of 7300622
+2017.11.30 21:51:24.130 lum_sdk/api INFO Downloaded 2268532 of 7300622
+2017.11.30 21:51:24.208 lum_sdk/api INFO Downloaded 2374800 of 7300622
+2017.11.30 21:51:24.274 lum_sdk/api INFO Downloaded 2427340 of 7300622
+2017.11.30 21:51:24.361 lum_sdk/api INFO Downloaded 2529580 of 7300622
