@@ -8,4 +8,4 @@
 Alle Sytemelemente und Tools zusammengefasst in einer Anwendung.
 
 <b>OS:</b> Windows 7/10
-<b>Version:</b> 1.0 Beta
+<p><b>Version:</b> 1.0 Beta</p>
